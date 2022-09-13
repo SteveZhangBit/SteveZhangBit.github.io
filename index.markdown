@@ -7,6 +7,8 @@ layout: home
 
 I'm a third-year Ph.D. student in Software Engineering at Institute for Software Research at Carnegie Mellon University. I work with Dr. Eunsuk Kang and Dr. David Garlan. My research mainly focuses on **software architecture**, **software quality**, and **formal methods**. My goal is to develop methodologies and tools to help developers to systematically design and build software systems that are **safe** and **robust**.
 
+[CV][[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZCz6P_QAAAAJ)][[GitHub](https://github.com/SteveZhangBit)]
+
 ***I'm actively looking for a summer internship opportunity!!!***
 
 ## Publications
@@ -24,5 +26,5 @@ I'm a third-year Ph.D. student in Software Engineering at Institute for Software
 
 ## Bio
 
-I received my Bachelor degree in Computer Science at Beijing Institute of Technology. Then, I received a Master degree in Software Engineering at Carnegie Mellon University. Now, I'm a third-year Ph.D. student at CMU, working with [Dr. Eunsuk Kang](https://eskang.github.io/) and [Dr. David Garlan](https://www.cs.cmu.edu/~garlan/).
+I received my Bachelor degree in Computer Science at Beijing Institute of Technology. Then, I received a Master degree in Software Engineering at Carnegie Mellon University. Now, I'm a fourth-year Ph.D. student at CMU, working with [Dr. Eunsuk Kang](https://eskang.github.io/) and [Dr. David Garlan](https://www.cs.cmu.edu/~garlan/).
 
