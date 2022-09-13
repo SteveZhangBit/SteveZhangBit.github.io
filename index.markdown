@@ -7,7 +7,7 @@ layout: home
 
 I'm a third-year Ph.D. student in Software Engineering at Institute for Software Research at Carnegie Mellon University. I work with Dr. Eunsuk Kang and Dr. David Garlan. My research mainly focuses on **software architecture**, **software quality**, and **formal methods**. My goal is to develop methodologies and tools to help developers to systematically design and build software systems that are **safe** and **robust**.
 
-[CV][[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZCz6P_QAAAAJ)][[GitHub](https://github.com/SteveZhangBit)]
+[[CV](/statics/Changjian-Zhang-CV.pdf)][[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZCz6P_QAAAAJ)][[GitHub](https://github.com/SteveZhangBit)]
 
 ***I'm actively looking for a summer internship opportunity!!!***
 
