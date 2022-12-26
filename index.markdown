@@ -19,6 +19,9 @@ I'm a fourth-year Ph.D. student in Software Engineering at Institute for Softwar
 
 ## Selected Publications
 
+- Robustification of Behavioral Designs against Environmental Deviations. \
+  **Changjian Zhang**, Tarang Saluja, Romulo Meira Goes, Matthew Bolton, David Garlan, and Eunsuk Kang. (ICSE 2023).
+
 - [**AlloyMax: bringing maximum satisfaction to relational specifications. (Distinguished Paper Award)**](https://doi.org/10.1145/3468264.3468587) \
   **Changjian Zhang**, Ryan Wagner, Pedro Orvalho, David Garlan, Vasco Manquinho, Ruben Martins, and Eunsuk Kang. 2021. In Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021). Association for Computing Machinery, New York, NY, USA, 155–167.
 
